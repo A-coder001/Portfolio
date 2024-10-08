@@ -76,8 +76,9 @@ form {
     background-color: #fff;
     border-radius: 5px;
     border-color: black;
-    width: 50%; 
+    width: 75%; 
     margin: 0 auto;
+    width: max-content;
     
 }
 
